@@ -33,7 +33,7 @@ git clone git@github.com:johnmcc/spark-start.git
 mvn install
 ```
 
-Next, and perform the following steps:
+Next, perform the following steps:
 
 - Click "Create new project"
 - Click "Create from archetype"
