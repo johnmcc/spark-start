@@ -1,3 +1,1 @@
-class AppTest {
-
-}
+// DELETE ME!

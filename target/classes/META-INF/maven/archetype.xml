@@ -3,9 +3,14 @@
     <id>spark-start</id>
     <sources>
         <source>src/main/java/App.java</source>
+        <source>src/main/java/db/HibernateUtil.java</source>
+        <source>src/main/java/db/DBHelper.java</source>
     </sources>
+
     <resources>
-        <source>src/main/resources</source>
+        <source>src/main/resources/public/style.css</source>
+        <source>src/main/resources/hibernate.cfg.xml</source>
+        <source>src/main/resources/templates/layout.vtl</source>
     </resources>
 
     <testSources>
