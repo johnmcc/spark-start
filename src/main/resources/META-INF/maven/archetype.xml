@@ -8,15 +8,16 @@
     </sources>
 
     <resources>
-        <source>src/main/resources/public/style.css</source>
-        <source>src/main/resources/hibernate.cfg.xml</source>
-        <source>src/main/resources/templates/layout.vtl</source>
+        <resource>src/main/resources/public/style.css</resource>
+        <resource>src/main/resources/hibernate.cfg.xml</resource>
+        <resource>src/main/resources/templates/layout.vtl</resource>
     </resources>
 
     <testSources>
         <source>src/test/java/AppTest.java</source>
     </testSources>
+
     <testResources>
-        <source>src/test/resources</source>
+        <resource>src/test/resources/hibernate.cfg.xml</resource>
     </testResources>
 </archetype>
