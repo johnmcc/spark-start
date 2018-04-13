@@ -13,6 +13,8 @@
 - spark-debug-tools
 - junit
 
+It also includes some bare-bones Hibernate setup.
+
 ## Installation
 
 First, ensure you have installed maven:
